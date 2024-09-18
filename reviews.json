@@ -1,0 +1,124 @@
+{   
+    "reviews" : [
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Thompson's lectures are engaging and well-structured. She's always willing to help during office hours."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Prof. Chen's passion for coding is contagious. His projects are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Emily Rodriguez",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Dr. Rodriguez knows her stuff, but her exams can be overly difficult. More practice questions would be helpful."
+    },
+    {
+      "professor": "Prof. David Anderson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Prof. Anderson brings history to life with his storytelling. Sometimes goes off-topic, but always interesting."
+    },
+    {
+      "professor": "Dr. Lisa Patel",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Patel is an amazing teacher. Her lab demonstrations are top-notch and she explains complex concepts clearly."
+    },
+    {
+      "professor": "Prof. Robert Johnson",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Prof. Johnson's lectures are dry and hard to follow. The textbook is more helpful than his classes."
+    },
+    {
+      "professor": "Dr. Maria Gonzalez",
+      "subject": "Spanish",
+      "stars": 5,
+      "review": "¡Excelente! Dr. Gonzalez creates a immersive language environment. Her classes are fun and effective."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Prof. Wilson's enthusiasm for physics is evident. His problem-solving sessions are particularly helpful."
+    },
+    {
+      "professor": "Dr. Karen Lee",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Lee assigns interesting readings, but her lectures can be a bit disorganized. Grading is fair though."
+    },
+    {
+      "professor": "Prof. Thomas Brown",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Mind-blowing discussions in every class! Prof. Brown challenges you to think critically about everything."
+    },
+    {
+      "professor": "Dr. Nicole Taylor",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Taylor's field trips make learning come alive. She's very knowledgeable about current environmental issues."
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Prof. Ivanov is brilliant, but struggles to explain concepts at an undergraduate level. Office hours are helpful though."
+    },
+    {
+      "professor": "Dr. Rachel Greene",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Greene's passion for art is infectious. Her virtual museum tours are a highlight of the course."
+    },
+    {
+      "professor": "Prof. William Chang",
+      "subject": "Mechanical Engineering",
+      "stars": 4,
+      "review": "Prof. Chang's real-world examples make complex theories understandable. His projects are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Dr. Martinez encourages good debates, but sometimes lets discussions get off track. Interesting course overall."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Prof. Kim's industry experience adds tremendous value to the class. Great at connecting theory to practice."
+    },
+    {
+      "professor": "Dr. Elizabeth Wright",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Dr. Wright's analysis of texts is insightful. Her essay feedback is detailed and helpful for improvement."
+    },
+    {
+      "professor": "Prof. Christopher Davis",
+      "subject": "Astronomy",
+      "stars": 5,
+      "review": "Prof. Davis makes the cosmos accessible. The night sky observation sessions are unforgettable!"
+    },
+    {
+      "professor": "Dr. Samantha Nelson",
+      "subject": "Neuroscience",
+      "stars": 3,
+      "review": "Dr. Nelson's research is cutting-edge, but her lectures can be hard to follow. Study groups are essential."
+    },
+    {
+      "professor": "Prof. Ahmed Hassan",
+      "subject": "International Relations",
+      "stars": 4,
+      "review": "Prof. Hassan brings a global perspective to every discussion. His simulation exercises are particularly enlightening."
+    }
+]
+}
