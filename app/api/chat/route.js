@@ -21,6 +21,7 @@ export async function POST(req){
         apiKey: process.env.PINECONE_API_KEY,
     })
     const index = pc.index('professor-chatbot').namespace('ns1');
+
     const openai = new OpenAI();
     const text = data[data.length - 1].content
     const embedding = await openai.embeddings.create({
@@ -29,7 +30,7 @@ export async function POST(req){
         encoding_format: 'float'
     })
     const results = await index.query({
-        topK: 3,
+        topK: 10,
         includeMetadata: true,
         vector: embedding.data[0].embedding
     })
